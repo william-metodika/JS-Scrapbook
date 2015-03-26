@@ -1,1 +1,3 @@
 # JS-Scrapbook
+
+Here are some readme notes....
